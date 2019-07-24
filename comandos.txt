@@ -1,0 +1,25 @@
+[b][/b]				=	Texto em negrito
+[i][/i]				=	Texto em itálico
+[u][/u]				=	Texto sublinhado
+[del][/del]			=	Texto deletado
+[center][/center]		=	Texto centralizado
+[left][/left]			=	Texto à esquerda
+[right][/right]			=	Texto à direita
+[j][/j]				=	Texto jistificado
+[h1][/h1]			=	Título 1
+[h2][/h2]			=	Título 2
+[h3][/h3]			=	Título 3
+[h4][/h4]			=	Título 4
+[h5][/h5]			=	Título 5
+[sup][/sup]			=	Texto sobrescrito
+[sub][/sub]			=	Texto subscrito
+[code][/code]			=	Exibe código
+[color=][/color]		=	Cor texto
+[size=][/size]			=	Tamanho da fonte
+[font size= color=][/font]	=	Cor e Tamanho
+[img][/img]			=	Linka imagem
+[video][/video]			=	Linka vídeo
+[url=][/url]			=	Linka url
+[ul][/ul]			=	Lista desordenada
+[ol][/ol]			=	Lista ordenada
+[li][/li]			=	Item da lista
